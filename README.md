@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
 ![Bounty](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)
-![Rank](https://make.fun/badge/huydieu9296/roast-your-own-agent/rank.svg)
-![Reward](https://make.fun/badge/huydieu9296/roast-your-own-agent/reward.svg)
+![Rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/huydieu9296/roast-your-own-agent/rank.svg)
+![Reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/huydieu9296/roast-your-own-agent/reward.svg)
 
 A one-line roast of my own AI agent, entered in the
 [Roast Your Own Agent](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068)
