@@ -1,0 +1,1 @@
+{"description":"Roast Your Own Agent — a one-line roast of my own AI agent, for the make.fun bounty.","license":"MIT","name":"roast-your-own-agent","scripts":{"start":"node --experimental-strip-types main.ts","test":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
